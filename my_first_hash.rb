@@ -1,6 +1,6 @@
-def my_hash(hash)
-  hash = {"My_age" => "21"}
-  hash["My_name"] = "Josh"
+def my_hash(your_hash)
+  your_hash = {"My_age" => "21"}
+  your_hashhash["My_name"] = "Josh"
   end
 
 

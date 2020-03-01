@@ -1,5 +1,6 @@
 def my_hash(hash)
   hash = {"My_age" => "21"}
+  hash["My_name"] = "Josh"
   end
 
 
